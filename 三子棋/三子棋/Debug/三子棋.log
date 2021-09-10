@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\91169\source\repos\三子棋\三子棋\源.c(54,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  三子棋.vcxproj -> C:\Users\91169\source\repos\三子棋\Debug\三子棋.exe

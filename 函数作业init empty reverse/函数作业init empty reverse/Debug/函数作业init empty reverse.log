@@ -1,0 +1,11 @@
+﻿  源.c
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(12,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(48,11): error C2057: 应输入常量表达式
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(48,11): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(50,11): warning C4047: “函数”:“int *”与“int (*)[1]”的间接级别不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(50,7): warning C4024: “init”: 形参和实参 1 的类型不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(53,14): warning C4047: “函数”:“int *”与“int (*)[1]”的间接级别不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(53,10): warning C4024: “reverse”: 形参和实参 1 的类型不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(56,12): warning C4047: “函数”:“int *”与“int (*)[1]”的间接级别不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(56,8): warning C4024: “Empty”: 形参和实参 1 的类型不同
+C:\Users\91169\source\repos\函数作业init empty reverse\函数作业init empty reverse\源.c(46,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

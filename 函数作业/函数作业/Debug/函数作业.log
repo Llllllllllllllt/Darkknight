@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\91169\source\repos\函数作业\函数作业\源.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  函数作业.vcxproj -> C:\Users\91169\source\repos\函数作业\Debug\函数作业.exe

@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\91169\source\repos\结构体\结构体\源.c(77,8): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\91169\source\repos\结构体\结构体\源.c(70,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\91169\source\repos\结构体\结构体\源.c(75,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  结构体.vcxproj -> C:\Users\91169\source\repos\结构体\Debug\结构体.exe
